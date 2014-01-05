@@ -355,7 +355,7 @@ label {
 	position: relative;
 }
 #menu > ul > li:hover > a {
-	background: #000000;
+	background: #680000;
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
 	-khtml-border-radius: 5px;
